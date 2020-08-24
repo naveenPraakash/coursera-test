@@ -1,0 +1,29 @@
+.navbar-brand h1  {
+    padding-top : 25px;
+    
+
+}
+
+    #x {
+        background-color: white;
+        padding: 0px 0px 0px 0px ;
+    }
+    
+    #a {
+        background-color: grey;
+        
+        margin : 0 auto;
+        padding: 1% 1% 1% 1% ;
+    }
+    #k {
+        background-color: grey;
+        
+
+        padding-left: 5%;
+        border: 2px solid black;
+        
+    }
+     #l {
+         float: right;
+     }
+     
